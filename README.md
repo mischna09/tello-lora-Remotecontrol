@@ -9,5 +9,5 @@
 ![ESP32-img](https://github.com/mischna09/tello-lora-Remotecontrol/blob/master/image/esp32.png "ESP32開發版圖片")
 * 軟體
   * Python
-    > Flask (網頁後端)<br>
-    > PySerial (序列通訊)
+    * Flask ( 網頁後端 )<br>
+    * PySerial ( 序列通訊 )
