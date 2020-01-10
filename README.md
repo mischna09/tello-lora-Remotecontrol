@@ -8,6 +8,10 @@
   * DFRobot FireBettle ESP32 開發版<br>
 ![ESP32-img](https://github.com/mischna09/tello-lora-Remotecontrol/blob/master/image/esp32.png "ESP32開發版圖片")
 * 軟體
-  * Python
-    * Flask ( 網頁後端 )<br>
-    * PySerial ( 序列通訊 )
+  * 後端: Python
+    * 網頁伺服器   - Flask<br>
+    * 序列通訊     - PySerial<br>
+  * 前端: Javascript
+    * 優化提示視窗 - ALERTIFY.js<br>
+    * 阻擋畫面 - BlockUI Plugin<br>
+    * 電池圖式進度條 - ProgressBar.js<BR>
