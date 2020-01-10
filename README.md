@@ -1,3 +1,3 @@
-<p align="center">讓訊號送得更遠</p>
-# tello-lora-Remotecontrol
- 
+# LoRa與無人機指令傳輸應用
+## 開發工具
+### 硬體
